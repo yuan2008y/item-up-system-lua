@@ -1,13 +1,17 @@
 ﻿local itemupentry=11940  ---吸血蝙蝠宝宝
 local itemupmoney=1000  --金币手续费
 local itemuppercent=100
-local itemupreqitem1=47241 itemupreqnum1=100 ---"凯旋纹章"  杀怪奖励
-local itemupreqitem2=40752 itemupreqnum2=10 --英雄纹章 BOSS奖励
-local itemupreqitem3=37836 itemupreqnum3=50  ---兑换属性物品：风险硬币
+local itemupreqitem1=47241 
+local itemupreqnum1=100 ---"凯旋纹章"  杀怪奖励
+local itemupreqitem2=40752 
+local itemupreqnum2=10 --英雄纹章 BOSS奖励
+local itemupreqitem3=37836 
+local itemupreqnum3=50  ---兑换属性物品：风险硬币
 local itemupreqitem4=44990  ---冠军的徽记 装备回收
 local itemuplevel=0
 local itemupaddlevel=0
-local itemupspeitem=4492 itemupmaxlevel=0  ---精灵宝石
+local itemupspeitem=4492 
+local itemupmaxlevel=0  ---精灵宝石
 local useitem=0
 
 
